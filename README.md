@@ -2,9 +2,36 @@
 
 Τα υλικά που θα χρειαστούμε είναι
 
-1. Ένα εκ των Arduino, Raspberry Pi, Micro:bit, Trinket M0, ESP32 (θα αποφασίσουμε μετά τις δοκιμές κατά την υλοποίηση)
-2. Σύστημα τροφοδοσίας
-3. Σύστημα κίνησης (DC κινητήρες ελεγχόμενοι από κάποιο driver τύπου TB6612FNG, πιθανόν να τοποθετήσουμε ερπύστριες)
-4. Σύστημα βραχίονα (με χρήση σερβοκινητήρα)
-5. Enclosure που θα περιλαμβάνει δοχείο εναπόθεσης σκουπιδιών και άκρο βραχίονα σε μορφή κόσκινου
-6. Σύστημα τηλεχειρισμού (πιθανόν bluetooth, με σκοπό να ελέγχεται από custom εφαρμογή android)
+Microbit x 2
+https://grobotronics.com/bbc-micro-bit-board.html
+Microbit Edge Connector
+https://grobotronics.com/edge-connector-breakout-board-for-bbc-micro-bit-pre-built.html
+DC Gear Motor TT - 125 RPM x 4? (not needed)
+https://grobotronics.com/dc-gear-motor.html
+Bridge L298N Dual H-Bridge Motor Controller (for Arduino)
+https://grobotronics.com/dual-motor-driver-module-l298n.html
+Κροκοδειλάκια 5+5
+https://grobotronics.com/alligator-clip-36.5mm-for-soldering-black.html
+https://grobotronics.com/alligator-clip-36.5mm-for-soldering-red.html
+https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html
+
+https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html
+https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html
+Θήκες μπαταρίας 4xΑΑ x 2
+https://grobotronics.com/battery-holder-4xa-waterproof.html
+Βάση αυτοκινήτου με 4 ρόδες
+https://grobotronics.com/robot-smart-car-4wd-chassis-26cm.html
+Stepper Motor
+https://grobotronics.com/stepper-motor-0.35kg.cm.html
+
+
+
+
+
+
+
+
+
+
+
+
