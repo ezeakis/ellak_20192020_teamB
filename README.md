@@ -7,5 +7,3 @@
 Τα αρχεία του κώδικα είναι [για τον transmitter](https://github.com/ezeakis/ellak_20192020_teamB/blob/master/microbit-ellak-car-transmiter.hex) και [για τον receiver](https://github.com/ezeakis/ellak_20192020_teamB/blob/master/microbit-ellak-car-receiver-b.hex).
 
 Μία πρόταση σχεδίου μαθήματος μπορεί να βρεθεί [εδώ](https://github.com/ezeakis/ellak_20192020_teamB/blob/master/%CE%A0%CE%BB%CE%AC%CE%BD%CE%BF%20%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%B9%CF%8E%CE%BD.md).
-
-Για την κατασκευή έχουμε αξιοποιήσει τα παρακάτω άρθρα
